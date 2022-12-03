@@ -5,11 +5,12 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import java.sql.Date;
 
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 public class FeriadoResquestDto {
 
     private Date dataFeriado;
-    private String descricaoFeriado;
+    private Long descricaoFeriado;
 }

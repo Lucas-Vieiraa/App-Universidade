@@ -23,5 +23,4 @@ public class CursoResquestDto {
     private Short quintaCurso;
     private Short sextaCurso;
     private Short sabadoCurso;
-    private List<TurmaModel> turmaModels;
 }

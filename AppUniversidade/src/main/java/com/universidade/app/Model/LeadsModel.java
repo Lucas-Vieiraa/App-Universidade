@@ -12,12 +12,21 @@ import java.sql.Date;
 @Entity
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name = "feriado")
-public class FeriadoModel implements Serializable {
+@Table(name = "leads")
+public class LeadsModel implements Serializable {
     private static final long serialVersionUID = 1L;
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long idLeads;
+    private String nomeLeads;
+    private String telefoneLeads;
     @JsonFormat(shape = JsonFormat.Shape.STRING,pattern = "dd-MM-yyyy")
-    private Date dataFeriado;
-    private Long descricaoFeriado;
+    private Date dataCadastroLeads;
+    private String statusLeads;
+    @JsonFormat(shape = JsonFormat.Shape.STRING,pattern = "dd-MM-yyyy")
+    private Date dataNovoContatoLeads;
+    private String observacaoLeads;
+
 }
+

@@ -1,6 +1,5 @@
 package com.universidade.app.Dto.RequestDto;
 
-import com.universidade.app.Model.CursoModel;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -10,6 +9,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class DiaAulaRequestDto {
 
-    private Long dataAula;
     private Long idCurso;
 }

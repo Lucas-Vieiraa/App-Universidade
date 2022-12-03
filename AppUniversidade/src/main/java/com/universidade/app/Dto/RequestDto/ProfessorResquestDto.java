@@ -14,5 +14,4 @@ public class ProfessorResquestDto {
     private String nomeProfessor;
     private String telefoneProfessor;
     private Double valorHoraAulaProfessor;
-    private List<TurmaModel> turmaModels;
 }
