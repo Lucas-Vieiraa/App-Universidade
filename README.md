@@ -1,3 +1,21 @@
-# Projeto Programacao Avancada 2AV
- Projeto Para Faculdade - 2ª AV de Programação Avançada! Criação de um sistema básico para Universidade
- Tecnologias Utilizadas (JAVA, MYSQL, SPRINGBOOT, MODEL MAPPPER)
+# PROJETO PROGRAMAÇÃO AVANÇADA 2AV
+ Projeto Para Faculdade - 2ª AV de Programação Avançada! Criação de uma API para um sistema básico de Universidade!
+ 
+ Tecnologias Utilizadas (JAVA, MYSQL, SPRINGBOOT, MODEL MAPPER)
+#
+# Banco De Dados MySql
+![universidadeBD](https://user-images.githubusercontent.com/107625886/205467811-37325a91-124c-40ad-b3ca-0a3250a24ac5.png)
+
+[UniversidadeBD - SQL SCRIPT + MODEL.zip](https://github.com/Lucas-Vieiraa/Projeto-Programacao-Avancada-2AV/files/10147600/UniversidadeBD.-.SQL.SCRIPT.%2B.MODEL.zip)
+#
+
+
+# Métodos Postman
+
+[UNIVERSIDADE (PROJETO PA).postman_collection.zip](https://github.com/Lucas-Vieiraa/Projeto-Programacao-Avancada-2AV/files/10147580/UNIVERSIDADE.PROJETO.PA.postman_collection.zip)
+#
+
+
+
+
+
